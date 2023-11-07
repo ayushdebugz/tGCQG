@@ -12,7 +12,7 @@ YOU CAN FREELY EDIT AND USE THE CODE HEREBY*/
     background-color: rgba(26, 26, 52, 0.4);
     border: 5px double tomato;
     margin: 0 auto;
-    height: 140vh;
+    height: auto;
     justify-content: center;
     padding: 300px 50px;
     text-align: center;
