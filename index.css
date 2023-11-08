@@ -27,17 +27,17 @@ YOU CAN FREELY EDIT AND USE THE CODE HEREBY*/
     height: auto;
     border-radius: 3px;
     width: auto;
-    font-size: 16px;
+    font-size: 17px;
     color: black;
     justify-content: center;
-    background-color: rgb(255, 255, 255);
+    background-color: green;
 
 }
 /*CODE PROVIDED BY LORD AYUSH JHA @theGeekyChad ©
 YOU CAN FREELY EDIT AND USE THE CODE HEREBY*/
 #output {
     margin: 0 auto;
-    font-size: 16px;
+    font-size: 18px;
     background-color: rgba(26, 26, 52, 0.4);
     color: whitesmoke;
     font-family: Kalam;
