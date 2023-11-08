@@ -1,4 +1,4 @@
-@import url(https://db.onlinewebfonts.com/c/c455d94eee43dc4ceeb83c0c0fd0d4c8?family=Segoe+Print+V1);
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@500&family=Kalam:wght@300&display=swap');
 
 body {
     font-family:"Gill Sans MT";
@@ -40,7 +40,7 @@ YOU CAN FREELY EDIT AND USE THE CODE HEREBY*/
     font-size: 16px;
     background-color: rgba(26, 26, 52, 0.4);
     color: whitesmoke;
-    font-family: Segoe Print;
+    font-family: Kalam;
     justify-content: center;
 }
 /*CODE PROVIDED BY LORD AYUSH JHA @theGeekyChad ©
