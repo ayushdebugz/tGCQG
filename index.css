@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@500&family=Kalam:wght@300&display=swap');
 body {
     font-family:"Gill Sans MT";
     /*background-color: rgb(37, 37, 37);*/
@@ -35,10 +36,10 @@ YOU CAN FREELY EDIT AND USE THE CODE HEREBY*/
 YOU CAN FREELY EDIT AND USE THE CODE HEREBY*/
 #output {
     margin: 0 auto;
-    font-size: 16px;
+    font-size: 20px;
     background-color: rgba(26, 26, 52, 0.4);
     color: whitesmoke;
-    font-family: segoe print;
+    font-family: Kalam;
     justify-content: center;
 }
 /*CODE PROVIDED BY LORD AYUSH JHA @theGeekyChad ©
